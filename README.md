@@ -13,9 +13,9 @@ I’m a passionate **Technical Trainer & Developer** with experience in training
 
 ## 🛠 Tech Stack
 
-* **Languages:** Python, Java
+* **Languages:** C, Java, Python
 * **Domains:** Data Analytics, ML, DL, NLP
-* **Tools & Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+* **Tools & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Scikit-learn, TensorFlow, Keras
 * **Concepts:** OOPs, DSA, Problem Solving, Model Building
 
 ## 🌱 Currently Exploring
