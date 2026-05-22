@@ -1,6 +1,12 @@
-# Hi there 👋
+## 👨‍💻 About Me
 
-I’m a passionate **Technical Trainer & Developer** with experience in training and mentoring students in **Data Analytics, Machine Learning, Deep Learning, NLP, and Data Structures & Algorithms** using **Java** and **Python**. I enjoy simplifying complex concepts and helping learners build strong technical foundations through practical, hands-on learning.
+🎓 Technical Trainer & Developer  
+📊 Skilled in Data Analytics, Machine Learning, Deep Learning & NLP  
+💻 Teaching DSA using Java & Python  
+🚀 Passionate about mentoring students with practical learning  
+🧠 Interested in AI, Real-world Projects & Problem Solving  
+🌱 Continuously learning new technologies and industry trends  
+⚡ Love simplifying complex concepts into easy-to-understand solutions
 
 ## 🚀 What I Do
 
