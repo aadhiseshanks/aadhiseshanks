@@ -1,3 +1,7 @@
+# 👋 Hi, I'm AADHISESHAN K S
+
+🎓 Technical Trainer | 🤖 AI & Data Analytics Enthusiast
+
 ## 👨‍💻 About Me
 
 🎓 Technical Trainer & Educator  
