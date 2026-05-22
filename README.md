@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-🎓 Technical Trainer & Developer  
+🎓 Technical Trainer & Educator  
 📊 Skilled in Data Analytics, Machine Learning, Deep Learning & NLP  
 💻 Teaching DSA using Java & Python  
 🚀 Passionate about mentoring students with practical learning  
