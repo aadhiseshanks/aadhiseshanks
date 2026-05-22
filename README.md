@@ -10,7 +10,7 @@
 
 ## 🚀 What I Do
 
-👨‍🏫 Technical Training & Mentorship
+- 👨‍🏫 Technical Training & Mentorship
 📊 Data Analytics & Visualization
 🤖 Machine Learning & Deep Learning
 🧠 Natural Language Processing (NLP)
