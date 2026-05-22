@@ -10,12 +10,12 @@
 
 ## 🚀 What I Do
 
-* 👨‍🏫 Technical Training & Mentorship
-* 📊 Data Analytics & Visualization
-* 🤖 Machine Learning & Deep Learning
-* 🧠 Natural Language Processing (NLP)
-* 💻 DSA with Java & Python
-* 🔧 Real-world Project Development
+👨‍🏫 Technical Training & Mentorship
+📊 Data Analytics & Visualization
+🤖 Machine Learning & Deep Learning
+🧠 Natural Language Processing (NLP)
+💻 DSA with Java & Python
+🔧 Real-world Project Development
 
 ## 🛠 Tech Stack
 
